@@ -12,8 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Subnormales!!</h1>
-        <h2>Subnormales!!</h2>
-        <h3>Subnormales!!</h3>
+        <h1>Hello World!</h1>
     </body>
 </html>
